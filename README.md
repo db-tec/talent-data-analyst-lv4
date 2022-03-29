@@ -19,5 +19,14 @@ No repositório contém o arquivo DataAnalyticsTest-level4.ipynb que contém tod
 
 Depois de todos os passos do teste realizado envie o link para o contato do RH para que possa ser avaliado (rh@stitcloud.com).
 
+# Plano de execução
+### David Rodrigues Borges
+#### 29/03/2022
+
+- Criar virtual .env <python -m venv .env>
+- Instalar libs <pip install -r requirements.txt>
+- Source em .env <source .env/bin/activate>
+- Executar em um notebook
+
 
 
