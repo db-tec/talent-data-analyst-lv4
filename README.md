@@ -28,6 +28,7 @@ Depois de todos os passos do teste realizado envie o link para o contato do RH p
 - Source em .env <source .env/bin/activate>
 - Executar em um notebook
 
+O arquivo da fonte: `https://st-it-cloud-public.s3.amazonaws.com/people-v2_1E6.csv.gz` foram removidos do repositorio pois o mesmo ultrapassa o tamanho permitido para commit.
 
 
 
