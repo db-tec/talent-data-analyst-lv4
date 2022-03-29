@@ -1,3 +1,4 @@
 .ipynb_checkpoints/*
 .env/*
 people-v2_1E6.csv
+.people_parquet/*
